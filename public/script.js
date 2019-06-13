@@ -1,0 +1,1 @@
+console.log('NGENTOT KAU MAS');

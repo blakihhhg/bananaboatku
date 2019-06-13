@@ -1,0 +1,24 @@
+const fs = require('fs');
+const Discord = require('discord.js');
+ 
+exports.run = async(client, message, args, color, prefix) => {
+ 
+
+            }
+ 
+         
+           
+                checker: 1
+              
+
+              
+              
+               
+               
+
+ 
+exports.help = {
+  name: 'logchannel',
+  description: 'Setel pencatatan ke channel seperti \`Pesan Diedit\`, \`Pesan Dihapus\` dan lainnya!',
+  usage: 'logchannel'
+}
